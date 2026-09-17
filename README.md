@@ -71,7 +71,7 @@ java Main
 
 ## 7. Autores
 
-- MILDREY gIL sANMARTIN.
+- MILDREY GIL SANMARTIN.
 
 ## 8. Control de versiones
 
