@@ -63,8 +63,8 @@ java Main
 
 ## 5. Capturas de pantalla de la consola
 
-![Evidencia 1](imagenes\Evidencia1.png)
-![Evidencia 2](imagenes\Evidencia2.png)
+<img width="1629" height="1000" alt="Evidencia1" src="https://github.com/user-attachments/assets/93b9a9e2-db44-4867-8839-cd11b42f9eac" />
+<img width="1776" height="1032" alt="Evidencia2" src="https://github.com/user-attachments/assets/dc7f9f1a-39b6-4325-b1fc-c7f416150a21" />
 
 ## 6. Video de sustentación
 
