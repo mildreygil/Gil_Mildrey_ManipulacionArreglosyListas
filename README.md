@@ -68,11 +68,6 @@ java Main
 
 ## 6. Video de sustentación
 
-> _Agregar aquí el enlace del video individual (YouTube, Drive o GitHub),
-> máximo 3 minutos, donde se explique la lógica de `push()` y `pop()` y se
-> muestre el ciclo Registro -> Deshacer -> Rehacer._
-
-Enlace del video: `PENDIENTE`
 
 ## 7. Autores
 
