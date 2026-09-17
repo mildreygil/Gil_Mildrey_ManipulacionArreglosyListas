@@ -68,6 +68,7 @@ java Main
 
 ## 6. Video de sustentación
 
+[Ver video](https://youtu.be/x9p8P-7QCCg)
 
 ## 7. Autores
 
