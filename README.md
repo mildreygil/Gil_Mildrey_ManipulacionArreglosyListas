@@ -63,8 +63,8 @@ java Main
 
 ## 5. Capturas de pantalla de la consola
 
-> _Agregar aquí las capturas de pantalla mostrando el ciclo:
-> Registro -> Deshacer -> Rehacer -> Mostrar Pedido Actual._
+![Evidencia 1](imagenes\Evidencia1.png)
+![Evidencia 2](imagenes\Evidencia2.png)
 
 ## 6. Video de sustentación
 
