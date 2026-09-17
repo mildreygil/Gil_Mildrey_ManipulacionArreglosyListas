@@ -71,7 +71,7 @@ java Main
 
 ## 7. Autores
 
-- Nombre del/los integrante(s) del equipo.
+- MILDREY gIL sANMARTIN.
 
 ## 8. Control de versiones
 
